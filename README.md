@@ -5,3 +5,4 @@ Calculator Dispersion.xlxs- Used to calculate Kn and Rn for pole to pole compari
 Fisherloper.xlxs- Spreadsheet to calculate maximum value of the probability density function.
 PDFcalc.xlxs- Spreadsheet to sketch probability density functions. 
 Supplementary Tables- Tables for Pole to Pole Comparisons.
+NOTE: All calculations are now more neatly handled in the python notebook.   The excel sheets are not well organized for most users.
